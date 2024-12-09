@@ -1,6 +1,6 @@
-# 💸 Split Bill App
+# 💸 Eat n Split App
 
-Split Bill App adalah aplikasi React sederhana untuk mencatat pengeluaran bersama teman dan membagi tagihan secara adil.
+Eat n Split App adalah aplikasi React sederhana untuk mencatat pengeluaran bersama teman dan membagi tagihan secara adil.
 
 ## ✨ Fitur
 
