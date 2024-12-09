@@ -1,8 +1,15 @@
-# React + Vite
+# Split Bill App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Split Bill App adalah aplikasi React sederhana untuk mencatat pengeluaran bersama teman dan membagi tagihan secara adil.
 
-Currently, two official plugins are available:
+## Fitur
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Daftar Teman**: Menampilkan daftar teman dengan nama, gambar, dan saldo terkini.
+- **Tambah Teman**: Tambahkan teman baru dengan nama dan URL gambar.
+- **Pilih Teman**: Pilih teman untuk mulai membagi tagihan.
+- **Bagi Tagihan**: Hitung pembagian tagihan dengan menentukan siapa yang membayar.
+
+## Teknologi yang Digunakan
+
+- **React**: Library utama untuk membangun antarmuka pengguna.
+- **Hooks**: Mengelola state menggunakan `useState`.
